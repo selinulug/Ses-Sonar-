@@ -123,5 +123,5 @@ int mesafe(int maxrange, int minrange) {
     digitalWrite(8, LOW);
     digitalWrite(9, LOW);
     digitalWrite(10, LOW);
- 
+    digitalWrite(11, LOW);
 
