@@ -1,4 +1,4 @@
-#include<Servo.h>
+#include<Servo.h> //Servo kütüphanesi tanımlama
 #define echo 4
 #define trig 5
 int buz = 6;
